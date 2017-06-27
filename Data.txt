@@ -1,0 +1,2 @@
+PaaSSQL01.oldev.preol.dell.com, TestDB
+PaaSSQL02.oldev.preol.dell.com, WorkDB
